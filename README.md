@@ -2,10 +2,9 @@
 <html>
   <head>
     <h2>This is GeukYoung Jang 👋</h2>
-    <a href="https://www.linkedin.com/in/rmrdud/" target="_blank"
-      ><img
-        src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"
-    /></a>
+    <a href="mailto:rmrdud@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rmrdud@gmail.com"/></a>
+    <a href="https://www.linkedin.com/in/rmrdud/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rmrdud/"/></a>
+    <a href="http://qr.kakao.com/talk/jMb7t.niBYKuho9Wto_55XTpbB0-"><img src="https://img.shields.io/badge/KakaoTalk-000000?style=flat-square&logo=KakaoTalk&logoColor=ffcd00&link=http://qr.kakao.com/talk/jMb7t.niBYKuho9Wto_55XTpbB0-"/></a>
   </head>
   <body>
     <h3>Research Experiences</h3>
@@ -20,6 +19,15 @@
         </br>(Mar. 2023 ~ )
       </li>
     </ul>
+    <h3>Skill</h3>
+    <div>
+      <ul>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>
+      </ul>
+    </div>
     <h3>Publications (SCIE/ESCI)</h3>
     <div align="justify">
       <ul>
@@ -176,6 +184,7 @@
         </li>
       </ul>
     </div>
+    <!--
     <h3>Projects</h3>
     <div align="justify">
       <ul>
@@ -215,6 +224,7 @@
         <li>Multi-channel Bio-admittance Imaging Probe</li>
       </ul>
     </div>
+    -->
   </body>
 </html>
 
