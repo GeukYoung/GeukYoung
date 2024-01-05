@@ -131,22 +131,47 @@
         <li>
           Apparatus and method for detecting abnormal respiration through change
           of lung volume signal
+          <div>
+            <a href="https://doi.org/10.8080/1020200179548" target="_blank">KR 10-2471883 · Issued Nov 24, 2022</a>
+          </div>
         </li>
+        </br>
         <li>
           Method and apparatus for determining hemodynamic parameter using
           electrical impedance tomography
+          <div>
+            <a href="https://doi.org/10.8080/1020200077738" target="_blank">KR 10-2421884 · Issued Jul 13, 2022</a>            
+          </div>
         </li>
+        </br>
         <li>
           Apparatus and method for noninvasively separating air flow and blood
           flow components and measuring the same
+          <div>
+            <a href="https://doi.org/10.8080/1020210016253" target="_blank">KR 10-2407355 · Issued Jun 7, 2022</a>
+          </div>
         </li>
+        </br>
         <li>
           Method and apparatus for monitoring of cardiopulmonary parameters
           using electrical impedance tomography
+          <div>
+            <a href="https://doi.org/10.8080/1020190128583" target="_blank">KR 10-2305179 · Issued Sep 16, 2021</a>
+          </div>
         </li>
-        <li>Cardiopulmonary function measuring device and method</li>
+        </br>
+        <li>
+          Cardiopulmonary function measuring device and method
+          <div>
+            <a href="https://doi.org/10.8080/1020210110852" target="_blank">KR 10-2021-0110852 · Filed Aug 23, 2021</a>
+          </div>
+        </li>
+        </br>
         <li>
           Method for providing event-based time series patient monitoring UI
+          <div>
+            <a href="https://doi.org/10.8080/1020210099841" target="_blank">KR 10-2021-0099841 · Filed Jul 29, 2021</a>
+          </div>
         </li>
       </ul>
     </div>
