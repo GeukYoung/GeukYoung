@@ -7,7 +7,8 @@
     <a href="http://qr.kakao.com/talk/jMb7t.niBYKuho9Wto_55XTpbB0-"><img src="https://img.shields.io/badge/KakaoTalk-333333?style=flat-square&logo=KakaoTalk&logoColor=ffcd00&link=http://qr.kakao.com/talk/jMb7t.niBYKuho9Wto_55XTpbB0-"/></a>
   </head>
   <body>
-    <h3>Research Experiences</h3><hr>
+    <hr>
+    <h3>Research Experiences</h3>
     <ul>
       <li>
         Research Professor at Kyung Hee Univ Medical Center, Korea 
@@ -19,7 +20,8 @@
         </br>(Mar. 2023 ~ )
       </li>
     </ul>
-    <h3>Publications (SCIE/ESCI)</h3><hr>
+    <hr>
+    <h3>Publications (SCIE/ESCI)</h3>
     <div align="justify">
       <ul>
         <li>
@@ -125,7 +127,8 @@
         </li>
       </ul>
     </div>
-    <h3>Patents</h3><hr>
+    <hr>
+    <h3>Patents</h3>
     <div align="justify">
       <ul>
         <li>
@@ -175,6 +178,7 @@
         </li>
       </ul>
     </div>
+    <hr>
     <h3>Tech Stack</h3>
     <div>
       <ul>
