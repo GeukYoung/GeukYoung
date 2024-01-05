@@ -11,17 +11,22 @@
     <h3>Research Experiences</h3>
     <ul>
       <li>
-        Research Professor at Kyung Hee Univ Medical Center, Korea 
-        </br>(Sep. 2019 ~ Dec. 2022)
+        Senior Researcher at Seoul National University Bundang Hospital, Korea
+        </br>🗓️ Mar. 2023 ~
       </li>
       </br>
       <li>
-        Senior Researcher at Seoul National University Bundang Hospital, Korea
-        </br>(Mar. 2023 ~ )
+        Senior Researcher at Samsung Medical Center, Korea
+        </br>🗓️ Mar. 2023 ~
+      </li>
+      </br>
+      <li>
+        Research Professor at Kyung Hee Univ Medical Center, Korea 
+        </br>🗓️ Sep. 2019 ~ Dec. 2022
       </li>
     </ul>
     <hr>
-    <h3>Publications (SCIE/ESCI)</h3>
+    <h3>Publications</h3>
     <div align="justify">
       <ul>
         <li>
@@ -185,6 +190,8 @@
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/MATLAB-E34F26?style=flat-square&logo=Prisma&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Autodesk Inventor-FBBC04?style=flat-square&logo=Autodesk&logoColor=white"/></a>&nbsp
