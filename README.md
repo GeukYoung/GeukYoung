@@ -5,6 +5,7 @@
     <a href="mailto:rmrdud@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rmrdud@gmail.com"/></a>
     <a href="https://www.linkedin.com/in/rmrdud/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rmrdud/"/></a>
     <a href="http://qr.kakao.com/talk/jMb7t.niBYKuho9Wto_55XTpbB0-"><img src="https://img.shields.io/badge/KakaoTalk-333333?style=flat-square&logo=KakaoTalk&logoColor=ffcd00&link=http://qr.kakao.com/talk/jMb7t.niBYKuho9Wto_55XTpbB0-"/></a>
+    <h3>I'm a Ph.D. in biomedical engineering.</h3>
   </head>
   <body>
     <hr>
