@@ -11,12 +11,13 @@
     <h3>Research Experiences</h3>
     <ul>
       <li>
-        Research Professor at Kyung Hee Univ Medical Center, Korea (Sep. 2019 ~
-        Dec. 2022)
+        Research Professor at Kyung Hee Univ Medical Center, Korea 
+        </br>(Sep. 2019 ~ Dec. 2022)
       </li>
+      </br>
       <li>
         Senior Researcher at Seoul National University Bundang Hospital, Korea
-        (Mar. 2023 ~ )
+        </br>(Mar. 2023 ~ )
       </li>
     </ul>
     <h3>Publications (SCIE/ESCI)</h3>
