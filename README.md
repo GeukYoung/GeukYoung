@@ -8,7 +8,7 @@
   </head>
   <body>
     <hr>
-    <h3>Research Experiences</h3>
+    <h3>💼 Research Experiences</h3>
     <ul>
       <li>
         Senior Researcher at Seoul National University Bundang Hospital, Korea
@@ -26,7 +26,7 @@
       </li>
     </ul>
     <hr>
-    <h3>Publications</h3>
+    <h3>📖 Publications</h3>
     <div align="justify">
       <ul>
         <li>
@@ -133,7 +133,7 @@
       </ul>
     </div>
     <hr>
-    <h3>Patents</h3>
+    <h3>📜 Patents</h3>
     <div align="justify">
       <ul>
         <li>
@@ -184,7 +184,7 @@
       </ul>
     </div>
     <hr>
-    <h3>Tech Stack</h3>
+    <h3>🪄 Tech Stack</h3>
     <div>
       <ul>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
@@ -193,6 +193,8 @@
         <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Autodesk Inventor-FBBC04?style=flat-square&logo=Autodesk&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Solid Works-005386?style=flat-square&logo=dassaultsystemes&logoColor=white"/></a>&nbsp
