@@ -9,7 +9,7 @@
       src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rmrdud/" /></a>
   <a href="http://qr.kakao.com/talk/jMb7t.niBYKuho9Wto_55XTpbB0-"><img
       src="https://img.shields.io/badge/KakaoTalk-333333?style=flat-square&logo=KakaoTalk&logoColor=ffcd00&link=http://qr.kakao.com/talk/jMb7t.niBYKuho9Wto_55XTpbB0-" /></a>
-  <h3>I'm a Ph.D. in biomedical engineering.</h3>
+  <h3>I'm a Ph.D. in Biomedical Engineering.</h3>
 </head>
 
 <body>
@@ -19,17 +19,17 @@
     <ul>
       <li>
         Senior Researcher at Seoul National University Bundang Hospital, Korea
-        </br>🗓️ Mar. 2023 ~
+        </br>(Mar. 2023 ~ )
       </li>
       </br>
       <li>
         Senior Researcher at Samsung Medical Center, Korea
-        </br>🗓️ Mar. 2023 ~
+        </br>(Mar. 2023 ~ )
       </li>
       </br>
       <li>
         Research Professor at Kyung Hee Univ Medical Center, Korea
-        </br>🗓️ Sep. 2019 ~ Dec. 2022
+        </br>(Sep. 2019 ~ Dec. 2022)
       </li>
     </ul>
   </div>
