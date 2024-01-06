@@ -15,7 +15,7 @@
 <body>
   <hr>
   <h3>💼 Research Experiences</h3>
-  <div align="justify">
+  <div align="left">
     <ul>
       <li>
         Senior Researcher at Seoul National University Bundang Hospital, Korea
@@ -59,7 +59,7 @@
   <details>
     <summary> Expand
     </summary>
-    <div align="justify" markdown="1">
+    <div align="left" markdown="1">
       <ul>
         <li>
           Motion Artifacts Reduction for Noninvasive Hemodynamic Monitoring of
@@ -181,7 +181,7 @@
   <details>
     <summary> Expand
     </summary>
-    <div align="justify" markdown="1">
+    <div align="left" markdown="1">
       <ul>
         <li>
           Apparatus and method for detecting abnormal respiration through change
@@ -238,7 +238,7 @@
   <details>
     <summary> Expand
     </summary>
-    <div align="justify" markdown="1">
+    <div align="left" markdown="1">
       <ul>
         <li>
           Development of noninvasive sudden blood pressure change warning system
