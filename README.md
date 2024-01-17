@@ -186,7 +186,7 @@
         <li>
           Cardiopulmonary function measuring device and method
           <div>
-            <a href="https://doi.org/10.8080/1020210110852" target="_blank">KR 10-2565228 · Filed Aug 4, 2023</a>🔗
+            <a href="https://doi.org/10.8080/1020210110852" target="_blank">KR 10-2565228 · Issued Aug 4, 2023</a>🔗
           </div>
         </li>
         </br>
