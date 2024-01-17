@@ -184,6 +184,13 @@
     <div align="left" markdown="1">
       <ul>
         <li>
+          Cardiopulmonary function measuring device and method
+          <div>
+            <a href="https://doi.org/10.8080/1020210110852" target="_blank">KR 10-2565228 · Filed Aug 4, 2023</a>🔗
+          </div>
+        </li>
+        </br>
+        <li>
           Apparatus and method for detecting abnormal respiration through change
           of lung volume signal
           <div>
@@ -212,14 +219,6 @@
           using electrical impedance tomography
           <div>
             <a href="https://doi.org/10.8080/1020190128583" target="_blank">KR 10-2305179 · Issued Sep 16, 2021</a>🔗
-          </div>
-        </li>
-        </br>
-        <li>
-          Cardiopulmonary function measuring device and method
-          <div>
-            <a href="https://doi.org/10.8080/1020210110852" target="_blank">KR 10-2021-0110852 · Filed Aug 23,
-              2021</a>🔗
           </div>
         </li>
         </br>
