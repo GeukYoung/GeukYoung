@@ -19,12 +19,12 @@
     <ul>
       <li>
         Senior Researcher at Seoul National University Bundang Hospital, Korea
-        </br>(Mar. 2023 ~ )
+        </br>(Mar. 2023 ~ Dec. 2024)
       </li>
       </br>
       <li>
         Senior Researcher at Samsung Medical Center, Korea
-        </br>(Mar. 2023 ~ )
+        </br>(Jan. 2025 ~ )
       </li>
       </br>
       <li>
