@@ -240,6 +240,29 @@
     <div align="left" markdown="1">
       <ul>
         <li>
+          Development of a Domestic Platform for Cardiac Pacemakers and
+          High-Precision Leads for Health and Security Response
+        </li>
+        <div>
+          🏛️ Korea Medical Device Development Foundation (KMDF)
+        </div>
+        </br>
+        <li>
+          Commercialization of Full Magnetic Levitation Cardiopulmonary 
+          Blood Pump and Artificial Intelligence-Based Operating Platform
+        </li>
+        <div>
+          🏛️ Korea Medical Device Development Foundation (KMDF)
+        </div>
+        </br>
+        <li>
+          Development of Impedance-Based Catheter Position Tracking Technology
+        </li>
+        <div>
+          🏛️ Commercialization Promotion Agency for R&D Outcomes (COMPA)
+        </div>
+        </br>
+        <li>
           Development of noninvasive sudden blood pressure change warning system
           based on deep learning of biosignals
         </li>
@@ -250,7 +273,7 @@
         <li>
           Portable Hemodynamics Monitor to do Noninvative Continuous Monitoring
           of Stroke Volume and Tidal Volume Simultaneously by High-speed
-          Tomography of
+          Tomography of Thoracic Blood Flow and Airflow
         </li>
         <div>
           🏛️ Ministry of Trade, Industry and Energy
@@ -274,9 +297,9 @@
         </div>
         </br>
         <li>
-          Development of a Large-area Non-lattice Pressure Distribution
-          Detection System based on Multi-frequency Electric Impedance
-          Tomography
+          Development of non-grid type large area pressure sensing system
+          based on multi-frequency EIT via the development of nanoweb based
+          piezo-electric/capacitive hybrid fabric sensor
         </li>
         <div>
           🏛️ Ministry of Trade, Industry and Energy
